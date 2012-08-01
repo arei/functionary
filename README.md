@@ -200,6 +200,10 @@ Executing `x(1,2,3)` would result in
 	inner
 	outer 1 2 3 
 
+## Future Changes
+
+I'm hoping to add a Curry function soon.  Just got to think it through.  Other ideas will creep into my brain too and I will try to add them here.
+
 ## Testing
 
 You can, if you want, run test.js in node `node test.js` to verify that fod.js is working.
