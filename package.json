@@ -1,0 +1,28 @@
+{
+  "author": "Glen R. Goodwin (http://www.arei.net)",
+  "name": "functionary",
+  "keywords": [ "functionary","functional","functionality","function","prototype","collapse","before","after","wrap","completed","failed","modifiers","modify","collapsing","enhance","enhancement","function modifier","functional modifier" ],
+  "description": "functionary is a small library that extends the function core prototype for expanded functionality for Browser or NodeJS development.  It is similar to Prototype.js or sugar.js but only for functions.",
+  "version": "0.1.0",
+  "homepage": "http://github.com/arei/functionary",
+  "bugs": {
+        "url": "http://github.com/arei/functionary/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/arei/functionary/blob/master/LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arei/functionary.git"
+  },
+  "main": "functionary.js",
+  "engines": {
+    "node": ">=0.6.11"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
